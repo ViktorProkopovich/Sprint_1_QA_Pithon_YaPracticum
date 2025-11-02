@@ -1,0 +1,1 @@
+# Sprint_1_QA_Pithon_YaPracticum
